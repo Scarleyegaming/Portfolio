@@ -253,3 +253,7 @@ h5 {
 		gap: 12rem;
 	}
 }
+
+.enlarge:hover{
+	transform: scale(1.5);
+}
